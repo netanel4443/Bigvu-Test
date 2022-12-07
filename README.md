@@ -1,4 +1,5 @@
-# If you have issues running this project make sure
+#How to run this project 
+If you have issues running this project make sure
 you use java 11
 To use java 11 :
 go to file-> project structure -> SDK location ->
