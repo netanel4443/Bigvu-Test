@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bigvu Test</string>
+    <string name="search">search</string>
+    <string name="internet_connection">Check your internet connection</string>
+</resources>
